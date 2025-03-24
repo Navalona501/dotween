@@ -6,6 +6,6 @@
     "dependencies": {
     },
     "gitDependencies": {
-    "ch.kainoo.extplugins.bundlecreator_loading_door": "https://github.com/Navalona501/bundlecreator_loading_door.git"
+    "ch.kainoo.extplugins.unitask": "https://github.com/Navalona501/unitask.git"
   }
 }
