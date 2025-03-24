@@ -4,7 +4,7 @@
     "displayName": "dotween",
     "description": "DOTween is a fast, efficient, fully type-safe object-oriented animation engine for Unity, optimized for C# users, free and open-source, with tons of advanced features",
     "dependencies": {
-      "ch.kainoo.extplugins.unitask": "2.5.5"
+      "ch.kainoo.extplugins.unitask": "https://github.com/Navalona501/unitask.git"
     },
     "gitDependencies": {
     "ch.kainoo.extplugins.unitask": "https://github.com/Navalona501/unitask.git"
