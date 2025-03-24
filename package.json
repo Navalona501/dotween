@@ -1,0 +1,11 @@
+{
+    "name": "ch.kainoo.extplugins.dotween",
+    "version": "1.2.7",
+    "displayName": "dotween",
+    "description": "DOTween is a fast, efficient, fully type-safe object-oriented animation engine for Unity, optimized for C# users, free and open-source, with tons of advanced features",
+    "dependencies": {
+    },
+    "gitDependencies": {
+    "ch.kainoo.extplugins.bundlecreator_loading_door": "https://github.com/Navalona501/bundlecreator_loading_door.git"
+  }
+}
